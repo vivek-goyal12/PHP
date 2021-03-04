@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+     <title>divisontag</title>
+</head>
+  
+
+<body>
+    <h1>hello</h1>
+    <h2>hello</h2>
+    <h3>hello</h3>
+
+    
+ <div style="height:300px; width:150px;border :2px solid black ; float :left;background-color:forestgreen">
+    
+    hello.
+
+</div>
+<div style ="height : 300px; width:150px;border :2px solid black ; float : left;background-color:tan;margin-left: 0px;"> vivek.
+</div>
+<div style = "height :300px; width:150px;border :2px solid black ; float : left;background-color:royalblue;margin-left: 50px"> Do you want Cold drink.
+</div>
+<div><img src="https://2.wlimg.com/product_images/bc-full/dir_14/390111/cold-drink-bottles-1181028.jpg" alt="" style = "height:70px;width: 70px;float:right">
+</div>
+</body>
+</html>
