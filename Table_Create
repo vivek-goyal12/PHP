@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            table,td,th{
+            border: 3px solid black;
+            border-collapse: collapse ;
+            padding:15px;}
+            table#alter tr:nth-child(odd){
+                background-color: rgb(137, 137, 211);
+            }
+            table#alter tr:nth-child(even){
+                background-color: grey;
+            }
+        </style>
+        <title>Table tag</title>
+    </head>
+    <body>
+        <table id="alter">
+            <tr>
+                <th>
+                    Sr_No
+                </th>
+                <th>
+                    Name
+                </th>
+                <th>University_Roll_No</th>
+                <th>Section</th>
+                <th>Class_roll_no</th>
+            </tr>
+           
+                <tr>
+                    <td>1</td>
+                    <td>vivek</td>
+                    <td>181500817</td>
+                    <td>b</td>
+                    <td>47</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>vivek</td>
+                    <td>181500817</td>
+                    <td>b</td>
+                    <td>47</td>
+                </tr>
+            
+
+        </table>
+    </body>
+</html>
